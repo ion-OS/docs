@@ -1,0 +1,39 @@
+[center]
+[img]https://raw.githubusercontent.com/ion-OS/docs/master/img/banner.png[/img]
+[size="6"][b][color=#dc143c] ion-2.1.b for Redmi Note 5 / Pro (whyred)[/color][/b][/size]
+
+[size="6"][b][color=#4285f4][u]About us[/u][/color][/b][/size]
+[size="4"][b]ion is based on AOSP including Pixel Goodies & lots of customizations[/b][/size]
+
+[size="6"][b][color=#db4437][u]Features[/u][/color][/b][/size]
+[size="3"][b][url="https://github.com/ion-OS/docs/blob/master/ion/features.md"]Check feature list[/url][/b][/size]
+
+[size="6"][b][color=#f4b400][u]Screenshots[/u][/color][/b][/size]
+[size="3"][b][url="https://imgur.com/a/fwmPsps"]Check screenshots[/url][/b][/size]
+
+[size="6"][b][color=#0f9d58][u]Instructions[/u][/color][/b][/size]
+[size="3"][b]Download ROM
+Reboot to Recovery
+Wipe system, vendor, data, cache
+Flash ROM
+Flash Magisk (optional)
+Reboot :) [/b][/size]
+
+[size="6"][b][color=#4285f4][u]Links[/u][/color][/b][/size]
+[size="3"][b][url="https://sourceforge.net/projects/i-o-n/files/device/xiaomi/whyred/"]Downloads[/url][/b][/size]
+[size="3"][b][url="https://t.me/ion_OS"]Telegram Announcement Channel[/url][/b][/size]
+[size="3"][b][url="https://t.me/i_o_n"]Telegram Support Group[/url][/b][/size]
+
+[size="6"][b][color=#db4437][u]Donate[/u][/color][/b][/size]
+[size="3"][b]PayPal: [url=https://www.paypal.me/AnkitGourav]https://www.paypal.me/AnkitGourav[/url][/b][/size]
+[size="3"][b]UPI: ankitgourav035@oksbi[/b][/size]
+
+[size="6"][b][color=#0f9d58][u]Source[/u][/color][/b][/size]
+[left][size="4"][list]
+[*][b]Android OS version:[/b] 10.0.0_r13
+[*][b]Security patch level:[/b] November 2019
+[*][b]Build author:[/b] [url=https://forum.xda-developers.com/member.php?u=7124940]AnkitGourav[/url]
+[*][b]Source code:[/b] [url=https://github.com/i-o-n]GitHub[/url]
+[*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=7124940]AnkitGourav[/url]
+[/list][/size][/left]
+[/center]
