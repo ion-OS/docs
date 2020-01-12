@@ -1,6 +1,6 @@
 [center]
 [img]https://raw.githubusercontent.com/ion-OS/docs/master/img/banner.png[/img]
-[size="6"][b][color=#dc143c] ion-2.2.a for Redmi Note 5 / Pro (whyred)[/color][/b][/size]
+[size="6"][b][color=#dc143c] ion-2.3.a for Redmi Note 5 / Pro (whyred)[/color][/b][/size]
 
 [size="6"][b][color=#4285f4][u]About us[/u][/color][/b][/size]
 [size="4"][b]ion is based on AOSP including Pixel Goodies & lots of customizations[/b][/size]
@@ -31,8 +31,8 @@ Reboot :) [/b][/size]
 [size="6"][b][color=#0f9d58][u]Source[/u][/color][/b][/size]
 [size="3"][b][url=https://github.com/i-o-n]GitHub[/url][/b][/size]
 [left][size="4"][list]
-[*][b]Android OS version:[/b] 10.0.0_r18
-[*][b]Security patch level:[/b] December 2019
+[*][b]Android OS version:[/b] 10.0.0_r23
+[*][b]Security patch level:[/b] January 2020
 [*][b]Build author:[/b] [url=https://forum.xda-developers.com/member.php?u=7124940]AnkitGourav[/url]
 [*][b]Source code:[/b] [url=https://github.com/i-o-n]GitHub[/url]
 [*][b]ROM Developer:[/b] [url=https://forum.xda-developers.com/member.php?u=7124940]AnkitGourav[/url]
