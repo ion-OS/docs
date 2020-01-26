@@ -4,7 +4,11 @@
 - Accent Color
 - Fonts
 - Icon Shape
-- QS Panel Opacity
+- QS Panel
+    - QS Header Color
+    - QS Header Image
+    - QS Panel Opacity
+    - QS Panel Color
 - Font size
 - Display size
 - Screen DPI
@@ -46,6 +50,8 @@
 - Statusbar icons
 - 4G/LTE network icon
 - Small mobile type icons
+- VoLTE icon
+    - VoLTE icon style
 - Brightness Control
 - Double tap to sleep
 - Quick Pull down
@@ -55,15 +61,19 @@
 - Vibrate on tile touch
 - Tile title
 - Clock
+- System Info
 - Show battery in QS header
 - Battery Percentage style
 - Show brightness slider
 - Brightness slider position
-- Brightness icon
+- Auto Brightness icon
+- Brightness Min - Max button
 - QS footer warnings
 - Edit icon
 - Show footer text
     - Custom footer text
+- Multi user icon
+- Running Sevices icon
 - Settings icon
 
 ### Buttons
@@ -83,10 +93,19 @@
 - Invert Layout
 - Gesture height
 - Show back arrow animation
+- Hide Gesture navbar pill
 
 ### Lockscreen
-- Clock fonts & size
-- Date fonts & size
+- Clock Widget
+    - Show / Hide
+    - Clock Style
+    - Clock font style
+    - Clock font size
+- Date Widget
+    - Show /Hide
+    - Date Style
+    - Date font style
+    - Date font size
 - Media cover art
 - Media artwork blur level
 - Music Visualizer
@@ -97,11 +116,14 @@
     - Lines Count
     - Sanity Level
     - Lines Opacity
+    - Ambient Visualizer
+        - Lines Opacity
 - Double tap to sleep
 - Statusbar
 - Quick Settings
 - Charging Animation
 - Lockscreen charging info
+- FOD icon picker
 - Lockscreen shortcut
 - Pocket Lock
 - Fingerprint authentication vibration
@@ -113,35 +135,48 @@
     - Dialer only Heads up
     - per app Heads up block
 - Noisy Notifications
+- Notification Vibration
 - Kill app button
 - Force Expanded Notifications
 - IN call vibration
 - Charging animation
 - wake up on charge
 - Edge Lighting
+    - Edge Color
+    - Pulse Duration
 - Ambient display brightness
+- Notification flash
+    - Blink for calls
+    - Blink on call waiting
 - Battery charging light
+- Notification LED
 
 ### System
 - Gaming Mode
 - Animations
-    - Screen off Animations
+    - System Animation
+    - Screen off Animation
+    - List View Animation
     - QS Tile Animation
         - Animation Duraion
         - Animation interpolator
-- Rounded corners & padding
-    - Corner Radius
-    - Content padding
-    - Statusbar padding
+- Screen
+    - Hide Cutout
+    - Rounded corners & padding
+        - Corner Radius
+        - Content padding
+        - Statusbar padding
+    - Legacy App Scaling
 - IME Settings
 - CPU info
-- Screenshot type
 - Force Expanded Settings
+- Screenshot type
 - Signature Spoofing
-- Suspended Actions
-- Alarm Blocker
-- Wakelock Blocker
-- Legacy app scaling
+- Miscellaneous
+    - Suspended Actions
+    - Alarm Blocker
+    - Wakelock Blocker
+    - Burn-in Protection
 - System update
 
 ### Battery
@@ -167,6 +202,7 @@
 
 ### Privacy
 - Privacy Indicator
+- Privacy Dashboard
 
 ### Security
 - Quick unlock
